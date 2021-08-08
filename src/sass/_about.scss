@@ -1,0 +1,28 @@
+.section {
+  background-color: blue;
+}
+
+.section__list {
+  list-style: none;
+}
+.upper-list {
+  margin-bottom: 20px;
+}
+
+.upper-list__item {
+  color: cornflowerblue;
+}
+
+.upper-list__text {
+  font-size: 20px;
+  color: beige;
+}
+
+.down-list__item {
+  color: blueviolet;
+}
+
+.down-list__text {
+  font-size: 20px;
+  color: beige;
+}
